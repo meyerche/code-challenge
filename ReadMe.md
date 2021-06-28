@@ -1,6 +1,6 @@
 # Mindex Coding Challenge
 
-##UPDATE
+## UPDATE
 The following endpoints have been added per instructions below:
 ```
 * READ Reporting Structure
